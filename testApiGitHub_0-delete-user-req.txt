@@ -1,0 +1,4 @@
+GROUP-NAME:user
+PAIR-NAME:delete user
+DELETE /user/{id}
+
