@@ -1,0 +1,6 @@
+GROUP-NAME:user
+PAIR-NAME:get user
+GET /user/{id}
+a:1
+b:2
+
