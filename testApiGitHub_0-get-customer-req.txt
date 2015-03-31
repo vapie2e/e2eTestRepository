@@ -1,0 +1,4 @@
+GROUP-NAME:customer
+PAIR-NAME:get customer
+GET /customer/{id}
+
