@@ -1,0 +1,6 @@
+GROUP-NAME:customer
+PAIR-NAME:create customer
+POST /customer
+
+{"customer":"David",
+"id":"0001"}
