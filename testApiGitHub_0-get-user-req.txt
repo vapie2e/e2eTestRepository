@@ -1,6 +1,6 @@
 GROUP-NAME:user_xx
 PAIR-NAME:get user
 GET /user_xx/{id_xx}
-a_xx:23
+a_xx:24
 b_xx:33
 
