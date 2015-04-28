@@ -2,5 +2,5 @@ GROUP-NAME:user_xx
 PAIR-NAME:get user
 GET /user_xx/{id_xx}
 a_xx:10
-b_xx:20
+b_xx:30
 
