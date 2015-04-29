@@ -1,4 +1,4 @@
-GROUP-NAME:user
+GROUP-NAME:user_xx
 PAIR-NAME:delete user
-DELETE /user/{id}
+DELETE /user_xx/{id_xx}
 
