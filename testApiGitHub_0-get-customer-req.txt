@@ -1,4 +1,4 @@
-GROUP-NAME:customer
+GROUP-NAME:customer_xx
 PAIR-NAME:get customer
-GET /customer/{id}
+GET /customer_xx/{id_xx}
 
