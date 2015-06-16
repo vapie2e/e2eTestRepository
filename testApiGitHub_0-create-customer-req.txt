@@ -1,6 +1,6 @@
-GROUP-NAME:customer_xx
+GROUP-NAME:customer
 PAIR-NAME:create customer
-POST /customer_xx
+POST /customer
 
-{"customer_xx":"David_xx",
-"id_xx":"0001"}
+{"customer":"David",
+"id":"0001"}
