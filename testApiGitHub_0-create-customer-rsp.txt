@@ -1,4 +1,4 @@
 200
 
-{"customer_xx":"David_xx",
-"id_xx":"0001"}
+{"customer":"David",
+"id":"0001"}
