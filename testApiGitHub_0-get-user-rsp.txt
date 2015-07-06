@@ -1,4 +1,4 @@
 200
 
-{"user":"bob",
-"id":"{id}"}
+{"user_xx":"bob_xx",
+"id_xx":"{id_xx}"}
